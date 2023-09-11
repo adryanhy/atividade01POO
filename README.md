@@ -2,7 +2,7 @@
 
 Este repositório contém uma tarefa de Programação Orientada a Objetos (POO) que aborda conceitos fundamentais e práticos dessa disciplina. 
 
-## Especificações do Exercício
+# Especificações do Exercício
 
 Classe Produto
 
