@@ -4,7 +4,7 @@ Este repositório contém uma tarefa de Programação Orientada a Objetos (POO) 
 
 # Especificações do Exercício
 
-Classe Produto
+## Classe Produto
 
 A classe Produto deve ter os seguintes atributos privados:
 
@@ -23,7 +23,7 @@ A classe Produto deve ter os seguintes atributos privados:
 · saidaEstoque(int quantidade): diminui a quantidade em estoque se houver quantidade suficiente.
 · emitirRelatorio(): retorna uma string contendo todos os detalhes do produto.
 
-Classe EstoqueGerenciar
+## Classe EstoqueGerenciar
 
 A classe EstoqueGerenciar deve ter uma lista de produtos (ArrayList<Produto>).
 
