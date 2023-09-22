@@ -14,6 +14,7 @@ public class Produto {
         this.qtdEstoque = 0;
     }
 
+    //Getters & Setters
     public int getCodigo() {
         return codigo;
     }
